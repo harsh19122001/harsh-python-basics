@@ -22,6 +22,33 @@ Collection of Jupyter notebooks covering Python fundamentals:
 - Comparing two values (greater, smaller, equal)
 - Boolean checks without logical operators
 
+## 03_loops 
+- while loop basics
+- Reverse counting
+- Nested while loops
+- Multiplication patterns
+- Iterating through strings & lists
+- Using range() in different formats
+- Finding numbers divisible by 5 / 3
+- break, continue & pass statements
+- Skipping logic using continue
+- Searching values in a list
+- Loop with else (first-match logic)
+- Printing 1–100 using loops
+- Reversing a list with indices
+- Calculating sum of numbers
+- Multiplication table generator
+- Extracting vowels from a string
+- Doubling values in a list
+- Finding largest & smallest digit in a number
+- Fibonacci sequence generation
+- Counting occurrences in a list
+- Printing alternate list elements
+- Nested loops for patterns
+- Loop-based number digit extraction
+- Using loops for boolean logic
+- For loop with conditions combination
+
 ## How to run
 1. Create virtual env: `python -m venv venv && source venv/bin/activate`
 2. Install: `pip install -r requirements.txt`
