@@ -49,6 +49,18 @@ Collection of Jupyter notebooks covering Python fundamentals:
 - Using loops for boolean logic
 - For loop with conditions combination
 
+## 04_Functions.ipynb
+Practice on Python functions and reusable logic:
+- Defining and calling functions
+- Functions with parameters and return values
+- Positional, keyword, and default arguments
+- Variable-length arguments (*args and **kwargs)
+- Local and global variables
+- Recursive functions (factorial, Fibonacci)
+- Lambda (anonymous) functions
+- Functional programming using map(), filter(), and reduce()
+- Logic-based practice problems (prime, palindrome, tables, digit operations)
+
 ## How to run
 1. Create virtual env: `python -m venv venv && source venv/bin/activate`
 2. Install: `pip install -r requirements.txt`
